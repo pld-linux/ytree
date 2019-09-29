@@ -19,6 +19,7 @@ A console based file manager in the tradition of Xtree.
 
 %build
 %{__make} \
+	CC="%{__cc}" \
 	CFLAGS="%{rpmcflags}"
 
 %install
