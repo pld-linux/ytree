@@ -1,7 +1,7 @@
 Summary:	A filemanager similar to XTree
 Name:		ytree
 Version:	1.99pl2
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/Console
 Source0:	http://www.han.de/~werner/%{name}-%{version}.tar.gz
